@@ -1,0 +1,15 @@
+C:\C#\CSharpBeginners\bin\Debug\net6.0\CSharpBeginners.exe
+C:\C#\CSharpBeginners\bin\Debug\net6.0\CSharpBeginners.deps.json
+C:\C#\CSharpBeginners\bin\Debug\net6.0\CSharpBeginners.runtimeconfig.json
+C:\C#\CSharpBeginners\bin\Debug\net6.0\CSharpBeginners.dll
+C:\C#\CSharpBeginners\bin\Debug\net6.0\CSharpBeginners.pdb
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.csproj.AssemblyReference.cache
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.AssemblyInfoInputs.cache
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.AssemblyInfo.cs
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.csproj.CoreCompileInputs.cache
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.dll
+C:\C#\CSharpBeginners\obj\Debug\net6.0\refint\CSharpBeginners.dll
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.pdb
+C:\C#\CSharpBeginners\obj\Debug\net6.0\CSharpBeginners.genruntimeconfig.cache
+C:\C#\CSharpBeginners\obj\Debug\net6.0\ref\CSharpBeginners.dll
